@@ -1,3 +1,3 @@
 public class Klass {
-    int nr = 567;
+    int nr = 568;
 }
