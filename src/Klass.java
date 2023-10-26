@@ -1,6 +1,6 @@
 public class Klass {
     int nr = 569;
-    int b =366;
+    int b =365;
 
 
     //shjhsk
